@@ -1,3 +1,3 @@
 # .github
 
-[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-square-large.svg)](https://clicksrv.net/3L) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-square-large.svg)](https://clicksrv.net/3M)
+[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen/) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://www.buymeacoffee.com/brandonhimpfen)
